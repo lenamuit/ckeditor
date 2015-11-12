@@ -7,7 +7,7 @@ CKEDITOR.editorConfig = function( config ) {
 	// Define changes to default configuration here. For example:
 	// config.language = 'fr';
 	// config.uiColor = '#AADC6E';
-	config.contentsCss = 'font.css';
+	config.contentsCss = 'css/font.css';
 	config.font_names = 'mitubachi Regular/mitubachi;' + config.font_names;
 	config.font_names = 'AhahaMojimoji Regular/AhahaMojimoji;' + config.font_names;
 	config.font_names = 'Pacifico Regular/Pacifico;' + config.font_names;
